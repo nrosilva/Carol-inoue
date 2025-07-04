@@ -1,4 +1,4 @@
-# Site Carolina Inoue Terapeuta
+# Carolina Inoue Terapeuta
 
 Um site profissional e moderno para a Carolina Inoue Terapeuta, focado em saúde mental e bem-estar.
 
